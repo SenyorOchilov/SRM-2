@@ -58,7 +58,7 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess }) => {
           <div className="flex items-center justify-center w-12 h-12 rounded-xl bg-gradient-to-br from-gold-400 to-gold-600 text-black shadow-gold font-bold mb-4">
             <Cloud size={24} className="text-black" />
           </div>
-          <h2 className="text-2xl font-bold tracking-tight text-white">ApparelCloud</h2>
+          <h2 className="text-2xl font-bold tracking-tight text-white">RetakeCloud</h2>
           <p className="text-xs text-gray-400 mt-1.5 text-center">
             Ombor, mijozlar, ta&apos;minotchilar va buyurtmalarni boshqarish
           </p>
