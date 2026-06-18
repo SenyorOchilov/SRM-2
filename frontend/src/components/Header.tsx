@@ -70,7 +70,7 @@ const Header: React.FC<HeaderProps> = ({ onMenuToggle, user, onLogout }) => {
         {/* Breadcrumb Navigation */}
         <nav className="hidden md:flex items-center gap-2 text-sm">
           <Link to="/" className="text-gray-400 hover:text-gold-400 transition-colors">
-            ApparelCloud
+            RemodeleCloud
           </Link>
           {pathnames.length > 0 && <ChevronRight size={14} className="text-white/20" />}
           {pathnames.map((value, index) => {
